@@ -21,6 +21,11 @@ header ul {
     gap: 1em;
 }
 
+header a {
+    color: #ea5516;
+    text-decoration: none;
+}
+
 /* Mobile */
 @media screen and (max-width: 600px) {
     header {
